@@ -1,0 +1,26 @@
+[
+  {
+    "name": "USDC",
+    "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "sharesMint": "Cvvh8nsKZet59nsDDo3orMa3rZnPWQhpgrMCVcRDRgip",
+    "tag": "usdcv1"
+  },
+  {
+    "name": "USDT",
+    "mintAddress": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+    "sharesMint": "AHV6CBjuT7M2HMMKDa5gRSEoBcJGWVjURCBhpgMbyESX",
+    "tag": "usdtv1"
+  },
+  {
+    "name": "SOL",
+    "mintAddress": "So11111111111111111111111111111111111111112",
+    "sharesMint": "DgnaQdr5VkNbH7n8qN471Hgsw19hUbMBhUs1N3MQKgtu",
+    "tag": "solv1"
+  },
+  {
+    "name": "RAY",
+    "mintAddress": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+    "sharesMint": "6JKtKEFiyp67VPN61nTCyUpY1cLrAZ7qpXiBsKqWZqWh",
+    "tag": "rayv1"
+  }
+]
